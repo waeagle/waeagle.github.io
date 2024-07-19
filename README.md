@@ -12,7 +12,7 @@
             color: #ff4d4d;
             text-align: center;
             padding: 50px;
-            background-image: url(""); /* Update with a real URL */
+            background-image: url("download(1).jpeg"); /* Update with a real URL */
             background-size: cover;
         }
         .container {

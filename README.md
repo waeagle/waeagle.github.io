@@ -121,11 +121,11 @@
         </div>
 
 <div class="gallery">
-            <img src="waeagle.github.io/450264057_983938056533897_960852189028524484_n.jpg" alt="Our First Day Together"> <!-- Update with real URLs -->
-            <img src="waeagle.github.io/smoke-298243.jpg" alt="The bond we shared">
-            <img src="waeagle.github.io/h.jpg" alt="Memories">
-            <img src="waeagle.github.io/hu.jpg" alt="Love">
-            <img src="waeagle.github.io/huj.jpg" alt="Unbreakable bond">
+            <img src="450264057_983938056533897_960852189028524484_n.jpg" alt="Our First Day Together"> <!-- Update with real URLs -->
+            <img src="smoke-298243.jpg" alt="The bond we shared">
+            <img src="h.jpg" alt="Memories">
+            <img src="hu.jpg" alt="Love">
+            <img src="huj.jpg" alt="Unbreakable bond">
         </div>
 
 <div class="game">

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>For My Crush</title>
+    <title>For Wifeyy</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
         body {
@@ -12,7 +12,7 @@
             color: #ff4d4d;
             text-align: center;
             padding: 50px;
-            background-image: url("waeagle.github.io/download(1).jpeg"); /* Update with a real URL */
+            background-image: url('waeagle.github.io/download (1).jpeg'); /* Update with a real URL */
             background-size: cover;
         }
         .container {
@@ -121,8 +121,16 @@
         </div>
 
 <div class="gallery">
-            <img src="450264057_983938056533897_960852189028524484_n.jpg" alt="Our First Day Together"> <!-- Update with real URLs -->
-            <img src="smoke-298243.jpg" alt="The bond we shared">
+            <img src="waeagle.github.io
+/450264057_983938056533897_960852189028524484_n.jpg" alt="Our First Day Together"> <!-- Update with real URLs -->
+            <img src="waeagle.github.io
+/smoke-298243.jpg" alt="The bond we shared">
+            <img src="waeagle.github.io
+/h.jpg" alt="The bond we shared">
+            <img src="waeagle.github.io
+/hu.jpg" alt="The bond we shared">
+            <img src="waeagle.github.io
+/huj.jpg" alt="The bond we shared">
         </div>
 
 <div class="game">

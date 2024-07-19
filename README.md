@@ -5,12 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>For My Crush</title>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
         body {
-            font-family: 'Arial', sans-serif;
+            font-family: 'Dancing Script', cursive;
             background-color: #ffe6e6;
             color: #ff4d4d;
             text-align: center;
             padding: 50px;
+            background-image: url('https://example.com/background.jpg'); /* Update with a real URL */
+            background-size: cover;
         }
         .container {
             background-color: #fff;
@@ -20,7 +23,7 @@
             max-width: 600px;
             margin: 0 auto;
         }
-        h1 {
+        h1, h2 {
             font-size: 2.5em;
             margin-bottom: 0;
         }
@@ -67,6 +70,38 @@
             font-size: 1em;
             color: #666;
         }
+        .quotes {
+            margin-top: 30px;
+            font-size: 1.5em;
+            color: #ff9999;
+        }
+        .gallery {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 30px;
+        }
+        .gallery img {
+            border-radius: 10px;
+            max-width: 100px;
+            max-height: 100px;
+        }
+        .game {
+            margin-top: 30px;
+        }
+        .game button {
+            background-color: #ff4d4d;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1em;
+            cursor: pointer;
+        }
+        .game button:hover {
+            background-color: #ff1a1a;
+        }
     </style>
 </head>
 <body>
@@ -75,10 +110,27 @@
         <h2>You make my heart flutter! 💖</h2>
         <p>I just wanted to let you know that you're amazing and you are the most precious gem in the whole universe. 🌸</p>
         <div class="heart">❤️</div>
-        <p>Would you like to go out with me sometime? 🥰
-Tap yes and text me ❤️</p>
+        <p>Would you like to go out with me sometime? 🥰 Tap yes and text me ❤️</p>
         <a href="https://www.instagram.com/wa_eagle_/" class="button">Yes! 💌</a>
         <div class="emoji">🌹🌻🌼🌷🌺</div>
+
+        <div class="quotes">
+            <p>"Every moment with you is a treasure. 💖"</p>
+            <p>"You light up my life like no one else. 🌟"</p>
+            <p>"Being with you is my favorite place to be. ❤️"</p>
+        </div>
+
+        <div class="gallery">
+            <img src="https://example.com/image1.jpg" alt="Cute Image 1"> <!-- Update with real URLs -->
+            <img src="https://example.com/image2.jpg" alt="Cute Image 2">
+            <img src="https://example.com/image3.jpg" alt="Cute Image 3">
+        </div>
+
+        <div class="game">
+            <p>Click the button to reveal a surprise! 🎁</p>
+            <button onclick="alert('You are the best thing that ever happened to me! ❤️')">Reveal Surprise</button>
+        </div>
+
         <div class="footer">P.S. You're the best! 🌟</div>
     </div>
 </body>

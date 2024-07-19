@@ -12,8 +12,7 @@
             color: #ff4d4d;
             text-align: center;
             padding: 50px;
-            background-image: url("waeagle.github.io
-/1000000873_2cb1c5b15dd6076433aa83d760339f31-07_04_2024, 20_52_06.jpg"); /* Update with a real URL */
+            background-image: url("waeagle.github.io/download.jpeg"); /* Update with a real URL */
             background-size: cover;
         }
         .container {

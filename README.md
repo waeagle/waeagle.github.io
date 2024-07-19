@@ -12,7 +12,8 @@
             color: #ff4d4d;
             text-align: center;
             padding: 50px;
-            background-image: url('download.jpeg'); /* Update with a real URL */
+            background-image: url("waeagle.github.io
+/download.jpeg"); /* Update with a real URL */
             background-size: cover;
         }
         .container {

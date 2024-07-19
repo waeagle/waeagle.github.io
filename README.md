@@ -121,10 +121,8 @@
         </div>
 
 <div class="gallery">
-            <img src="waeagle.github.io
-/450264057_983938056533897_960852189028524484_n.jpg" alt="Our First Day Together"> <!-- Update with real URLs -->
-            <img src="waeagle.github.io
-/smoke-298243.jpg" alt="The bond we shared">
+            <img src="450264057_983938056533897_960852189028524484_n.jpg" alt="Our First Day Together"> <!-- Update with real URLs -->
+            <img src="smoke-298243.jpg" alt="The bond we shared">
         </div>
 
 <div class="game">

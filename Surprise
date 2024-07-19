@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>For My Crush</title>
+    <title>For Wifeyy</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
         body {
@@ -114,24 +114,25 @@
         <a href="https://www.instagram.com/wa_eagle_/" class="button">Yes! 💌</a>
         <div class="emoji">🌹🌻🌼🌷🌺</div>
 
-        <div class="quotes">
+ <div class="quotes">
             <p>"Every moment with you is a treasure. 💖"</p>
             <p>"You light up my life like no one else. 🌟"</p>
             <p>"Being with you is my favorite place to be. ❤️"</p>
         </div>
 
-        <div class="gallery">
-            <img src="https://example.com/image1.jpg" alt="Cute Image 1"> <!-- Update with real URLs -->
-            <img src="https://example.com/image2.jpg" alt="Cute Image 2">
-            <img src="https://example.com/image3.jpg" alt="Cute Image 3">
+<div class="gallery">
+            <img src="waeagle.github.io
+/450264057_983938056533897_960852189028524484_n.jpg" alt="Our First Day Together"> <!-- Update with real URLs -->
+            <img src="waeagle.github.io
+/smoke-298243.jpg" alt="The bond we shared">
         </div>
 
-        <div class="game">
+<div class="game">
             <p>Click the button to reveal a surprise! 🎁</p>
             <button onclick="alert('You are the best thing that ever happened to me! ❤️')">Reveal Surprise</button>
         </div>
 
-        <div class="footer">You're the best! 🌟</div>
+ <div class="footer"> You're the best! 🌟</div>
     </div>
 </body>
 </html>
